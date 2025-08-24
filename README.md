@@ -2,6 +2,8 @@
 
 Un catálogo moderno de dispositivos inteligentes (smartphones y laptops) construido con Next.js 14, App Router y Tailwind CSS. Este proyecto funciona completamente en el frontend con datos mockeados, pero está estructurado para ser fácilmente conectado a un backend en el futuro.
 
+Pueden ver el proyecto en: https://catalogo-dispositivos-hfkx.vercel.app/
+
 ## 🚀 Características
 
 ### ✨ Funcionalidades principales
