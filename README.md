@@ -236,4 +236,4 @@ Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 
 ---
 
-**Desarrollado con ❤️ usando Next.js 14 y Tailwind CSS**
+**Desarrollado con ❤️ por Murrcia usando Next.js 14 y Tailwind CSS**
